@@ -1,0 +1,2 @@
+player1 player1-choice player2 player2-choice
+Moshe   rock           Ayelet  rock
